@@ -1,4 +1,4 @@
-These are OS-Railway new track turnouts modifyied to alo support SG90 mini servo.
+These are OS-Railway (fully printable railway system) new track turnouts modifyied to add SG90 mini servo controll.
 
 Tips:
 
@@ -10,3 +10,14 @@ Tips:
 6. For servo mount, You can Youe M2x6mm screws.
 
 Its my first contact with 3d modeling, i am aware it is not perfect but i can guarantee it does work.  
+
+
+
+
+<images>
+
+
+Original model sources used:
+https://www.thingiverse.com/thing:4408535 (New Train track for OS-Railway)
+https://www.thingiverse.com/thing:1828203 (Printed SG90 Servo Connector)
+https://www.thingiverse.com/thing:3730382 (SG90 servo model)

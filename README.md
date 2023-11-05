@@ -11,11 +11,9 @@ Tips:
 
 Its my first contact with 3d modeling, i am aware it is not perfect but i can guarantee it does work.  
 
-
-
-
-<images>
-
+![Model image]([https://github.com/[username]/[reponame]/blob/[branch]](https://github.com/michalkac/OS-Railway-New-Tracks-Turnouts-Servo-Controll/blob/main/IMGs/s1.jpg)
+![Print Image 1]([https://github.com/[username]/[reponame]/blob/[branch]](https://github.com/michalkac/OS-Railway-New-Tracks-Turnouts-Servo-Controll/blob/main/IMGs/s2.jpg)
+![Print Image 2]([https://github.com/[username]/[reponame]/blob/[branch]](https://github.com/michalkac/OS-Railway-New-Tracks-Turnouts-Servo-Controll/blob/main/IMGs/s3.jpg)
 
 Original model sources used:
 

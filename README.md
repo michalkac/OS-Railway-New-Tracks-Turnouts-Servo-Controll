@@ -1,4 +1,5 @@
-These are OS-Railway new track turnouts modifyied to alo support SG90 mini servo .
+These are OS-Railway new track turnouts modifyied to alo support SG90 mini servo.
+
 Tips:
 
 1. For lever model i strongly advice to print with 0.1mm layer height because of servo connector (if connector still does not make a good contact with servo you can you can try to increase extrusion a bit or even put a tiny piece of paper between connector and servo. The rest can be printed with standard 0.2mm layer height.

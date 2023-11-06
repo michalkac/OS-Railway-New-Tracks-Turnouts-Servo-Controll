@@ -2,7 +2,7 @@ These are OS-Railway (fully printable railway system) new track turnouts modifyi
 
 Tips:
 
-1. For lever model i strongly advice to print with 0.1mm layer height because of servo connector (if connector still does not make a good contact with servo you can you can try to increase extrusion a bit or even put a tiny piece of paper between connector and servo. The rest can be printed with standard 0.2mm layer height.
+1. For lever model i strongly advice to print with 0.1mm layer height because of servo connector (if connector still does not make a good contact with servo you can try to increase extrusion a bit or even put a tiny piece of paper between connector and servo. The rest can be printed with standard 0.2mm layer height.
 2. Servo cover is same for left and right turnout. I suggest to print it upside down with support.
 3. Servo turn angle needed is only around 60* SO BE CAREFOUL how far You turn the servo, or You can break it.
 4. Use silicone/PTFE grease to make the mechaninal parts move smoothly and prolong their life.

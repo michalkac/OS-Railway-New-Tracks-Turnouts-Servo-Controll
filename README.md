@@ -7,7 +7,7 @@ Tips:
 3. Servo turn angle needed is only around 60* SO BE CAREFUL how far You turn the servo, or You can break it.
 4. Use silicone/PTFE grease to make the mechaninal parts move smoothly and prolong their life.
 5. If it comes to mechanism cover screws, you need M1.4mm screws 6mm long. You can use shorter screws if You drill the cover screw holes with 2.5mm drill to make screw heads covered.
-6. For servo mount, You can Youe M2x6mm screws.
+6. For servo mount, You can use M2x6mm screws.
 
 Its my first contact with creating 3d models, i am aware it is not perfect but i can guarantee it does work.  
 
